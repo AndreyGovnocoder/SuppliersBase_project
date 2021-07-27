@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/MainInterface">
+        <file>goose.png</file>
+        <file>headName.png</file>
+        <file>logo.png</file>
+        <file>fon.png</file>
+    </qresource>
+</RCC>
